@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="hi.gif" width="400" />
+<img src="./hi.gif" width="400" />
 </p>
 <p align="center">
 <a href="https://www.facebook.com/iamrajivranjansingh"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="22" /></a>
